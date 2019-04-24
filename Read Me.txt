@@ -1,0 +1,16 @@
+Read me:
+Summary:
+	This is a Mandelbrot Fractal Renderer. Using the Escape Algorithm and Continous (smooth) coloring algorithm. 
+Libraries:
+	GL3W 2-20-2019 (Last Commit) 
+	GLM0 .9.9.5 (2019-04-01)
+	STB Image 2.22
+Notes:
+	Max Zoom is locked at 1,000,000x.
+	Current Max Iteration is 1000. Any higher leads to some crashes.
+Controls:
+	Left Click: Zoom in on cursor point
+	Right Click: Zoom out on cursor point
+Future Goal: 
+	The main idea for this project is for user to select between multiple type of fractals to render. As fractal rendering should then be saved as a picture.
+	The user could select to alter his/her background screen to cycle through the pictures.

@@ -1,0 +1,7 @@
+To Do:
+Make a WinAPI Menu to select values like:
+	Min/Max Iterations
+	Boolean to indicate wether using own Texture color map
+	Menu to decide wether post processing wants to be done
+Clean up the git to just include the source file, header file, and executable.
+
