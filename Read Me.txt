@@ -1,6 +1,6 @@
 Read me:
 Summary:
-	This is a Mandelbrot Fractal Renderer. Using the Escape Algorithm and Continous (smooth) coloring algorithm. 
+	This is a Mandelbrot Fractal Renderer(using C++ and OpenGL). Rendering and coloring is done using the Escape Algorithm and Continous (smooth) coloring algorithm. 
 Libraries:
 	GL3W 2-20-2019 (Last Commit) 
 	GLM0 .9.9.5 (2019-04-01)
